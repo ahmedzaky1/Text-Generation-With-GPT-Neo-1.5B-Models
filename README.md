@@ -17,3 +17,6 @@ EleutherAI for providing the GPT-Neo 1.5B model.
 Hugging Face for the Transformers library.
 
 #GPTNeo #AI #NLP #TextGeneration #OpenSource
+
+
+![Text Generation](https://github.com/ahmedzaky1/Text-Generation-With-GPT-Neo-1.5B-Models/assets/103897664/7e5a84e5-43f6-4907-8ac8-6f69d68bcf7a)
